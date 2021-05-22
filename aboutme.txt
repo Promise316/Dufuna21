@@ -1,2 +1,4 @@
 Hello world
-My name Promise Chilufya
+My name is Promise Chilufya
+
+I am from Lusaka Zambia. Am currently working on my full stack development course with Dufuna and Bongo Hive Code Academy
